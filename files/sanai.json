@@ -1,0 +1,437 @@
+{
+  "hayyiddiyyar": {
+    "title": {
+      "trans": "Hayyi ddiyyar"
+    },
+    "tab": "maya",
+    "mizan": "btayhi",
+    "melodia": [
+      {
+        "cents": 1200,
+        "ini": [0, 0],
+        "dur": 1,
+        "trans": "Ha"
+      },
+      {
+        "cents": 1200,
+        "ini": [0, 1],
+        "dur": 3,
+        "trans": "yyi"
+      },
+      {
+        "cents": 1000,
+        "ini": [0, 4],
+        "dur": 1,
+        "trans": "ddi"
+      },
+      {
+        "cents": 900,
+        "ini": [0, 5],
+        "dur": 0.5,
+        "trans": ""
+      },
+      {
+        "cents": 1100,
+        "ini": [0, 5.5],
+        "dur": 0.5,
+        "trans": ""
+      },
+      {
+        "cents": 1200,
+        "ini": [0, 6],
+        "dur": 1,
+        "trans": "yyar"
+      },
+      {
+        "cents": 1000,
+        "ini": [0, 7],
+        "dur": 1,
+        "trans": ""
+      },
+      {
+        "cents": 900,
+        "ini": [0, 8],
+        "dur": 1,
+        "trans": ""
+      },
+      {
+        "cents": 700,
+        "ini": [0, 9],
+        "dur": 1,
+        "trans": ""
+      },
+      {
+        "cents": 500,
+        "ini": [0, 10],
+        "dur": 1,
+        "trans": ""
+      },
+      {
+        "cents": 700,
+        "ini": [0, 11],
+        "dur": 1,
+        "trans": ""
+      },
+      {
+        "cents": 900,
+        "ini": [0, 13],
+        "dur": 1,
+        "trans": "A"
+      },
+      {
+        "cents": 1100,
+        "ini": [0, 14],
+        "dur": 1,
+        "trans": ""
+      },
+      {
+        "cents": 1200,
+        "ini": [0, 15],
+        "dur": 1,
+        "trans": ""
+      },
+      {
+        "cents": 900,
+        "ini": [1, 0],
+        "dur": 1,
+        "trans": "Ha"
+      },
+      {
+        "cents": 700,
+        "ini": [1, 1],
+        "dur": 1,
+        "trans": "yyi"
+      },
+      {
+        "cents": 400,
+        "ini": [1, 2],
+        "dur": 1,
+        "trans": ""
+      },
+      {
+        "cents": 500,
+        "ini": [1, 3],
+        "dur": 1,
+        "trans": ""
+      },
+      {
+        "cents": 700,
+        "ini": [1, 4],
+        "dur": 1,
+        "trans": "ddi"
+      },
+      {
+        "cents": 400,
+        "ini": [1, 5],
+        "dur": 1,
+        "trans": ""
+      },
+      {
+        "cents": 500,
+        "ini": [1, 6],
+        "dur": 1,
+        "trans": "yar"
+      },
+      {
+        "cents": 400,
+        "ini": [1, 7],
+        "dur": 1,
+        "trans": ""
+      },
+      {
+        "cents": 200,
+        "ini": [1, 8],
+        "dur": 1,
+        "trans": ""
+      },
+      {
+        "cents": 0,
+        "ini": [1, 9],
+        "dur": 1,
+        "trans": ""
+      },
+      {
+        "cents": -100,
+        "ini": [1, 10],
+        "dur": 1,
+        "trans": ""
+      },
+      {
+        "cents": 0,
+        "ini": [1, 11],
+        "dur": 1,
+        "trans": ""
+      },
+      {
+        "cents": -100,
+        "ini": [1, 13],
+        "dur": 3,
+        "trans": "A"
+      },
+      {
+        "cents": 200,
+        "ini": [2, 0],
+        "dur": 1,
+        "trans": "wa"
+      },
+      {
+        "cents": 0,
+        "ini": [2, 1],
+        "dur": 2,
+        "trans": "man"
+      },
+      {
+        "cents": -100,
+        "ini": [2, 4],
+        "dur": 1,
+        "trans": "bi"
+      },
+      {
+        "cents": 200,
+        "ini": [2, 5],
+        "dur": 1,
+        "trans": ""
+      },
+      {
+        "cents": 0,
+        "ini": [2, 6],
+        "dur": 1,
+        "trans": "ha"
+      },
+      {
+        "cents": 0,
+        "ini": [2, 9],
+        "dur": 2,
+        "trans": "sa"
+      },
+      {
+        "cents": 400,
+        "ini": [2, 11],
+        "dur": 2,
+        "trans": ""
+      },
+      {
+        "cents": 400,
+        "ini": [2, 13],
+        "dur": 2,
+        "trans": "kin"
+      },
+      {
+        "cents": 400,
+        "ini": [2, 15],
+        "dur": 1,
+        "trans": "ya"
+      },
+      {
+        "cents": 400,
+        "ini": [3, 0],
+        "dur": 1,
+        "trans": "la"
+      },
+      {
+        "cents": 500,
+        "ini": [3, 1],
+        "dur": 0.5,
+        "trans": "lan"
+      },
+      {
+        "cents": 700,
+        "ini": [3, 1.5],
+        "dur": 0.5,
+        "trans": ""
+      },
+      {
+        "cents": 500,
+        "ini": [3, 2],
+        "dur": 0.5,
+        "trans": ""
+      },
+      {
+        "cents": 400,
+        "ini": [3, 2.5],
+        "dur": 0.5,
+        "trans": ""
+      },
+      {
+        "cents": 200,
+        "ini": [3, 3],
+        "dur": 1,
+        "trans": ""
+      },
+      {
+        "cents": 200,
+        "ini": [3, 4],
+        "dur": 1,
+        "trans": "ya"
+      },
+      {
+        "cents": 200,
+        "ini": [3, 5],
+        "dur": 1,
+        "trans": "la"
+      },
+      {
+        "cents": 400,
+        "ini": [3, 6],
+        "dur": 2,
+        "trans": "la"
+      },
+      {
+        "cents": 500,
+        "ini": [3, 8],
+        "dur": 1,
+        "trans": "la"
+      },
+      {
+        "cents": 700,
+        "ini": [3, 9],
+        "dur": 1,
+        "trans": "la"
+      },
+      {
+        "cents": 500,
+        "ini": [3, 10],
+        "dur": 1,
+        "trans": "la"
+      },
+      {
+        "cents": 700,
+        "ini": [3, 11],
+        "dur": 1,
+        "trans": "lan"
+      },
+      {
+        "cents": -100,
+        "ini": [3, 13],
+        "dur": 3,
+        "trans": "A"
+      },
+      {
+        "cents": 200,
+        "ini": [4, 0],
+        "dur": 1,
+        "trans": "wa"
+      },
+      {
+        "cents": 0,
+        "ini": [4, 1],
+        "dur": 2,
+        "trans": "man"
+      },
+      {
+        "cents": -100,
+        "ini": [4, 4],
+        "dur": 1,
+        "trans": "bi"
+      },
+      {
+        "cents": 200,
+        "ini": [4, 5],
+        "dur": 1,
+        "trans": ""
+      },
+      {
+        "cents": 0,
+        "ini": [4, 6],
+        "dur": 1,
+        "trans": "ha"
+      },
+      {
+        "cents": 0,
+        "ini": [4, 9],
+        "dur": 2,
+        "trans": "sa"
+      },
+      {
+        "cents": 400,
+        "ini": [4, 11],
+        "dur": 2,
+        "trans": ""
+      },
+      {
+        "cents": 400,
+        "ini": [4, 13],
+        "dur": 2,
+        "trans": "kin"
+      },
+      {
+        "cents": 900,
+        "ini": [4, 15],
+        "dur": 1,
+        "trans": "ya"
+      },
+      {
+        "cents": 900,
+        "ini": [5, 0],
+        "dur": 1,
+        "trans": "la"
+      },
+      {
+        "cents": 700,
+        "ini": [5, 1],
+        "dur": 1,
+        "trans": "la"
+      },
+      {
+        "cents": 400,
+        "ini": [5, 2],
+        "dur": 1,
+        "trans": "la"
+      },
+      {
+        "cents": 500,
+        "ini": [5, 3],
+        "dur": 1,
+        "trans": "lan"
+      },
+      {
+        "cents": 700,
+        "ini": [5, 4],
+        "dur": 1,
+        "trans": "ya"
+      },
+      {
+        "cents": 400,
+        "ini": [5, 5],
+        "dur": 1,
+        "trans": "la"
+      },
+      {
+        "cents": 500,
+        "ini": [5, 6],
+        "dur": 1,
+        "trans": "la"
+      },
+      {
+        "cents": 400,
+        "ini": [5, 7],
+        "dur": 1,
+        "trans": "la"
+      },
+      {
+        "cents": 200,
+        "ini": [5, 8],
+        "dur": 1,
+        "trans": "la"
+      },
+      {
+        "cents": 0,
+        "ini": [5, 9],
+        "dur": 1,
+        "trans": "la"
+      },
+      {
+        "cents": -100,
+        "ini": [5, 10],
+        "dur": 1,
+        "trans": "la"
+      },
+      {
+        "cents": 0,
+        "ini": [5, 11],
+        "dur": 1,
+        "trans": "lan"
+      }
+    ]
+  }
+}
